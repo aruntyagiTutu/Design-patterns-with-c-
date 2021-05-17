@@ -11,9 +11,11 @@ namespace Single_Responsibility_Principle
                 Todo todo = new Todo();
 
                 #region [ Add todo ]
+                
                 todo.AddEntry("Complete Solid Principle");
                 todo.AddEntry("Complete Builder patterns");
                 todo.AddEntry("Complete Behavioral pattern");
+                
                 #endregion
 
                 Persistence p = new Persistence();

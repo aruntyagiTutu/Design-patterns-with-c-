@@ -1,0 +1,15 @@
+/Users/aruntyagi/Documents/Design-patterns-with-c-/SOLID-Design-Principles/bin/Debug/net5.0/SOLID-Design-Principles.deps.json
+/Users/aruntyagi/Documents/Design-patterns-with-c-/SOLID-Design-Principles/bin/Debug/net5.0/SOLID-Design-Principles.runtimeconfig.json
+/Users/aruntyagi/Documents/Design-patterns-with-c-/SOLID-Design-Principles/bin/Debug/net5.0/SOLID-Design-Principles.runtimeconfig.dev.json
+/Users/aruntyagi/Documents/Design-patterns-with-c-/SOLID-Design-Principles/bin/Debug/net5.0/SOLID-Design-Principles.dll
+/Users/aruntyagi/Documents/Design-patterns-with-c-/SOLID-Design-Principles/bin/Debug/net5.0/ref/SOLID-Design-Principles.dll
+/Users/aruntyagi/Documents/Design-patterns-with-c-/SOLID-Design-Principles/bin/Debug/net5.0/SOLID-Design-Principles.pdb
+/Users/aruntyagi/Documents/Design-patterns-with-c-/SOLID-Design-Principles/obj/Debug/net5.0/SOLID-Design-Principles.csprojAssemblyReference.cache
+/Users/aruntyagi/Documents/Design-patterns-with-c-/SOLID-Design-Principles/obj/Debug/net5.0/SOLID-Design-Principles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aruntyagi/Documents/Design-patterns-with-c-/SOLID-Design-Principles/obj/Debug/net5.0/SOLID-Design-Principles.AssemblyInfoInputs.cache
+/Users/aruntyagi/Documents/Design-patterns-with-c-/SOLID-Design-Principles/obj/Debug/net5.0/SOLID-Design-Principles.AssemblyInfo.cs
+/Users/aruntyagi/Documents/Design-patterns-with-c-/SOLID-Design-Principles/obj/Debug/net5.0/SOLID-Design-Principles.csproj.CoreCompileInputs.cache
+/Users/aruntyagi/Documents/Design-patterns-with-c-/SOLID-Design-Principles/obj/Debug/net5.0/SOLID-Design-Principles.dll
+/Users/aruntyagi/Documents/Design-patterns-with-c-/SOLID-Design-Principles/obj/Debug/net5.0/ref/SOLID-Design-Principles.dll
+/Users/aruntyagi/Documents/Design-patterns-with-c-/SOLID-Design-Principles/obj/Debug/net5.0/SOLID-Design-Principles.pdb
+/Users/aruntyagi/Documents/Design-patterns-with-c-/SOLID-Design-Principles/obj/Debug/net5.0/SOLID-Design-Principles.genruntimeconfig.cache

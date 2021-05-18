@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Open_Closed_Principle
+namespace Open_Closed_Principle_Bad
 {
     enum Size
     {

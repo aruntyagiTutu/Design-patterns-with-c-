@@ -22,6 +22,11 @@ namespace Interface_segregation_Principle
 
     }
 
+    interface IMediumInterface: IScan, IPrint
+    {
+
+    }
+
     // this is fine as this device having all feature which it can implement.
     class Multi_FeaturePrinter : IMultiFeatureInterface
     {
@@ -38,6 +43,19 @@ namespace Interface_segregation_Principle
         public void Scan(Document d)
         {
             // implementation 
+        }
+    }
+
+    class SomeWhatOldPrinter : IMediumInterface
+    {
+        public void Print(Document d)
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public void Scan(Document d)
+        {
+            throw new System.NotImplementedException();
         }
     }
 

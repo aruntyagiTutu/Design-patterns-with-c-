@@ -1,3 +1,5 @@
+using System;
+
 namespace Liskov_Substitution_Principle
 {
     class Rectangle_Bad
@@ -47,9 +49,9 @@ namespace Liskov_Substitution_Principle
 
             Rectangle_Bad s = new Square_Bad();
             s.Height = 5;
-
-            // this will give wrong answer, which violates Liskov Substitution Principle;
-            Area(s);
+        // this will give wrong answer, which violates Liskov Substitution Principle;
+           Console.WriteLine("Arear of square : " +  Area(s)); // 0
+           Console.WriteLine("Arear of rect : " +  Area(r)); // 24
         }
     }
 }

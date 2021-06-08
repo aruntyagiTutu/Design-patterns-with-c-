@@ -1,3 +1,5 @@
+using System;
+
 namespace Liskov_Substitution_Principle
 {
     class Rectangle
@@ -39,7 +41,7 @@ namespace Liskov_Substitution_Principle
 
     public class LSP_Client_Demo
     {
-        static int Area(Rectangle_Bad r) => r.Width * r.Height;
+        static int Area(Rectangle r) => r.Width * r.Height;
 
         public static void Run()
         {
@@ -47,6 +49,8 @@ namespace Liskov_Substitution_Principle
             
             Rectangle s = new Square();
             s.Width = 5;
+
+            Console.WriteLine("Area of squre : "+ Area(s)); // 25
         }
     }
 }

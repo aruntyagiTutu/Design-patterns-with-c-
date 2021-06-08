@@ -1,3 +1,6 @@
+SRP :
+    states that every module, class or function in a computer program should have responsibility over a single part of that program's functionality, and it should encapsulate that part.
+
 Scenario 
 
 We need to build a TodoList
